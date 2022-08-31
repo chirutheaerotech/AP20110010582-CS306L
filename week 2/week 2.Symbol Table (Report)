@@ -67,15 +67,15 @@ return 0;
 }
 
 
-INPUT:-  C=A+B;
+INPUT:-  z=x+y;
 OUTPUT:-  Symbol Table display
 Symbol 	 addr 			 type
- C 	 0x562b28f42ac0 	 identifier
+ z 	 0x562b28f42ac0 	 identifier
 
  = 	 0x562b28f42b40 	 operator
 
- A 	 0x562b28f42b90 	 identifier
+ x 	 0x562b28f42b90 	 identifier
 
  + 	 0x562b28f42c00 	 operator
 
- B 	 0x562b28f42c40 	 identifier
+ y 	 0x562b28f42c40 	 identifier
