@@ -1,0 +1,67 @@
+#
+include: 	 preprocessor directive 
+<:	 relational operator 
+stdio: 	 standard input output
+.
+h: 	 identifier
+>:	 relational operator 
+int: 	 keyword 
+main: 	 identifier
+(: Delimiter
+): Delimiter
+{: Delimiter
+int: 	 keyword 
+a: 	 identifier
+,: Delimiter
+b: 	 identifier
+,: Delimiter
+c: 	 identifier
+;: Delimiter
+printf: 	 identifier
+(: Delimiter
+"
+num: 	 identifier
+"
+): Delimiter
+;: Delimiter
+scanf: 	 identifier
+(: Delimiter
+"
+%d: format specifier
+%d: format specifier
+"
+,: Delimiter
+&
+a: 	 identifier
+,: Delimiter
+&
+b: 	 identifier
+): Delimiter
+;: Delimiter
+c: 	 identifier
+=:	 relational operator 
+a: 	 identifier
+*
+b: 	 identifier
+;: Delimiter
+printf: 	 identifier
+(: Delimiter
+"
+%d: format specifier
+and: 	 identifier
+%d: format specifier
+is: 	 identifier
+%d: format specifier
+"
+,: Delimiter
+a: 	 identifier
+,: Delimiter
+b: 	 identifier
+,: Delimiter
+c: 	 identifier
+): Delimiter
+;: Delimiter
+return: 	 identifier
+0: 	 number
+;: Delimiter
+}: Delimiter
