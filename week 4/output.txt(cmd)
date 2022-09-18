@@ -1,0 +1,32 @@
+Microsoft Windows [Version 10.0.22000.978]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\CHIRANJEEVI>cd/
+
+C:\>cd "Flex Windows"
+
+C:\Flex Windows>cd EditPlusPortable
+
+C:\Flex Windows\EditPlusPortable>flex name.l
+
+C:\Flex Windows\EditPlusPortable>cc lex.yy.c
+
+C:\Flex Windows\EditPlusPortable>a testing.txt y.txt
+
+ break is keyword
+ no of id are : 8
+ the contents of symbol table are :
+
+ include
+ stdio
+ h
+ int
+ main
+ s
+ printf
+ d
+
+
+
+
+ no of lines = 11
