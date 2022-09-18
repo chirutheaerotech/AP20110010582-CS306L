@@ -1,0 +1,23 @@
+single line comment
+
+
+ comment start
+
+ comment end
+
+ include is identifier
+ < is Relational operator Lessthan
+ stdio is identifier
+ h is identifier
+ > is Relational operator Greaterthan
+ int is identifier
+ main is identifier
+ s is identifier
+ = is Assignment operator
+ 1 is digit
+ 123.22 is float
+ >= is Relational operator Greaterthan or Equal to
+ 9 is digit
+ 9 is digit
+ printf is identifier
+ d is identifier
